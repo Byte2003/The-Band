@@ -247,7 +247,7 @@ html {
     display: block;  
 }
 .place-img:hover {
-    opacity: 0.6;
+    opacity: 0.7;
 }
 .places-body {
     padding: 16px;
@@ -344,6 +344,6 @@ html {
     margin-top: 20px;
 }
 #footer .social-list a:hover {
-    color : rgba(0,0,0,0.4);
+    color : black;
 }
 
